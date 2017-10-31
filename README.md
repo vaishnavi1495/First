@@ -24,7 +24,6 @@ The database looks like:
 
 ## Team Members
   
-* [Omkar Acharya](https://omkaracharya.github.io/)
 * [Parag Ahivale](https://www.linkedin.com/in/parag-ahivale-901b7b91)
 * [Nehal Belgamwar](https://www.linkedin.com/in/nehal-belgamwar-a8a61692)
-* [Anmol Agarwal](https://www.linkedin.com/in/anmol-agarwal-2614bb87)
+
