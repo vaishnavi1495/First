@@ -23,7 +23,7 @@ The database looks like:
 ![Database](/schema/db1.png)
 
 ## Team Members
-* [Vaishnavi Bhosale] (https://www.linkedin.com/in/vaishnavi-bhosale/)
+* [Vaishnavi Bhosale](https://www.linkedin.com/in/vaishnavi-bhosale/)
 * [Parag Ahivale](https://www.linkedin.com/in/parag-ahivale-901b7b91)
 * [Nehal Belgamwar](https://www.linkedin.com/in/nehal-belgamwar-a8a61692)
 
